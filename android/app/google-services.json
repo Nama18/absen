@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7588696601",
+    "project_id": "absensi-4cc8f",
+    "storage_bucket": "absensi-4cc8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7588696601:android:d3559eecb082fa2fdc5088",
+        "android_client_info": {
+          "package_name": "com.example.latihan_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7588696601-eg5dh6o6i39a2qg0aji9ik5lqncieeck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_MVCVg1P6FKo5Ko-wwMHqSjAaFnwzrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7588696601-eg5dh6o6i39a2qg0aji9ik5lqncieeck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
